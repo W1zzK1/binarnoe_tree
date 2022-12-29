@@ -10,4 +10,6 @@ int main()
 
     binaryTree->remove(2);
 
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    return 0;
+}
